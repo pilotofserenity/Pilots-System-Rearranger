@@ -1,8 +1,9 @@
 installation instructions:
 1: download kopernicus planetary system modifier
 2: download the mod
-3: drag mod into gamedata
-4: enjoy
+3: unzip the mod
+4: drag mod into gamedata
+5: enjoy
 
 what does the mod do?
 eve: has dres as a moon
